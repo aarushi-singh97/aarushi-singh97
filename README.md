@@ -198,7 +198,8 @@ Ghost Intern was built to solve a real friction point for developers — droppin
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aarushi-singh97/aarushi-singh97/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/aarushi-singh97/aarushi-singh97/output/github-contribution-grid-snake.svg"
+width="90%" />
 
 <sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — requires a scheduled workflow in the <code>aarushi-singh97/aarushi-singh97</code> repo.</sub>
 
