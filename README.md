@@ -37,8 +37,6 @@
 
 ## 🪐 About Me
 
-<img align="right" width="35%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=1&pause=1&color=00000000&vCenter=true&width=1&lines=+" />
-
 I'm a **Computer Science Engineering Student** who builds AI-powered, full stack applications — from prompt-engineered LLM integrations to production-grade REST APIs. I care about clean architecture, thoughtful UI, and shipping software that actually solves a problem, not just software that compiles.
 
 My current focus sits at the intersection of **applied AI** and **full stack engineering** — using tools like the Gemini API to build products that make unfamiliar codebases, data, and workflows understandable at a glance.
@@ -46,10 +44,19 @@ My current focus sits at the intersection of **applied AI** and **full stack eng
 ```txt
 > const developer = {
     role: "Computer Science Engineering Student",
-    focus: ["AI/ML Applications", "Full Stack Development", "Prompt Engineering"],
-    currentlyBuilding: "AI-powered codebase intelligence platforms",
+    focus: [
+      "AI/ML Applications",
+      "Full Stack Development",
+      "Prompt Engineering"
+    ],
+    currentlyBuilding: "AI-powered codebase intelligence platform",
     philosophy: "Ship things that are useful, not just impressive",
-    openTo: ["Internships", "SWE Roles", "AI/ML Roles", "Open Source Collaboration"]
+    openTo: [
+      "Internships",
+      "SWE Roles",
+      "AI/ML Roles",
+      "Open Source Collaboration"
+    ]
   }
 ```
 
@@ -87,16 +94,12 @@ My current focus sits at the intersection of **applied AI** and **full stack eng
 
 ## 🧠 AI / ML Expertise
 
-<div align="center">
-
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | **LLM Integration** | ⭐⭐⭐⭐ | Google Gemini API for content generation, summarization & code understanding |
 | **Prompt Engineering** | ⭐⭐⭐⭐ | Structured prompting for consistent, reliable AI outputs in production apps |
 | **AI-Powered Applications** | ⭐⭐⭐⭐ | End-to-end apps combining LLM reasoning with real developer/user workflows |
 | **API-Driven AI Pipelines** | ⭐⭐⭐ | FastAPI backends orchestrating AI calls, caching, and structured responses |
-
-</div>
 
 ---
 
@@ -118,6 +121,7 @@ An AI-powered codebase intelligence platform that analyzes GitHub repositories, 
 | AI Layer | Google Gemini API, Prompt Engineering |
 | Language Mix | JavaScript 42.4% · Python 35.9% · CSS 21.3% · HTML 0.4% |
 | Core Function | Repository analysis, architecture explanation, project summarization |
+
 
 Ghost Intern was built to solve a real friction point for developers — dropping into an unfamiliar repository and needing to understand its structure, purpose, and architecture quickly. It parses a codebase and uses LLM-driven reasoning to generate human-readable summaries and explanations, effectively acting as an onboarding assistant for any GitHub project.
 
