@@ -37,7 +37,7 @@
 
 ## 🪐 About Me
 
-I'm a ** 3rd Year Computer Science Engineering Student** who builds AI-powered, full stack applications — from prompt-engineered LLM integrations to production-grade REST APIs. I care about clean architecture, thoughtful UI, and shipping software that actually solves a problem, not just software that compiles.
+I'm a **Computer Science Engineering Student** who builds AI-powered, full stack applications — from prompt-engineered LLM integrations to production-grade REST APIs. I care about clean architecture, thoughtful UI, and shipping software that actually solves a problem, not just software that compiles.
 
 My current focus sits at the intersection of **applied AI** and **full stack engineering** — using tools like the Gemini API to build products that make unfamiliar codebases, data, and workflows understandable at a glance.
 
