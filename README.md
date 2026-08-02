@@ -70,7 +70,7 @@ My current focus sits at the intersection of **applied AI** and **full stack eng
 <br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css&theme=dark" />
 
-<br/><br/>
+<br/><br/> 
 
 **Frontend**
 <br/>
