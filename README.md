@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:8b5cf6&height=220&section=header&text=Aarushi%20Singh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/aarushi-singh97">
