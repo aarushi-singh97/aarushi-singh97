@@ -1,6 +1,5 @@
 <div align="center">  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:8b5cf6&height=220&section=header&text=Aarushi%20Singh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
-
 <a href="https://github.com/aarushi-singh97">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Full+Stack+Developer+%7C+React+%2B+FastAPI;Exploring+Prompt+Engineering+%26+LLMs;Turning+Ideas+Into+Shipped+Code" alt="Typing SVG" />
 </a>
