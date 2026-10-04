@@ -3,9 +3,7 @@
 <a href="https://github.com/aarushi-singh97">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Full+Stack+Developer+%7C+React+%2B+FastAPI;Exploring+Prompt+Engineering+%26+LLMs;Turning+Ideas+Into+Shipped+Code" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <img src="https://img.shields.io/badge/Open%20to%20Work-8B5CF6?style=for-the-badge&logo=ferrari&logoColor=white" />
 <img src="https://img.shields.io/badge/CS%20Engineering-1e1b4b?style=for-the-badge&logo=bookstack&logoColor=8B5CF6" />
 
